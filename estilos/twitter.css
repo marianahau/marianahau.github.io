@@ -1,0 +1,36 @@
+#imagen1{
+
+    float: right;
+    border: solid blue 5px;
+    display: inline-block;
+}
+#p1{
+    clear: both;
+    text-align: center;
+    width: 70%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: #00acee;
+}
+h2{
+    text-align: center;
+    clear: both;
+    color: #00acee;
+    font-family:monospace;
+    font-size: 35px;
+}
+.in{
+    clear: both;
+    text-align: justify-all;
+}
+#c{
+    text-align: center;
+}
+body
+{
+    background-color:darkturquoise;
+}

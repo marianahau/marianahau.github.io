@@ -1,0 +1,48 @@
+#imagen1{
+
+    float: right;
+    border: solid blue 5px;
+    display: inline-block;
+}
+#p1{
+    text-align:center;
+    width: 50%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: blue;
+}
+h2{
+    clear: both;
+    text-align: center;
+    color: blue;
+    font-family:monospace;
+    font-size: 35px;
+}
+.in{
+    clear: both;
+    text-align: justify-all;
+}
+footer{
+    text-align: center;
+}
+#im2{
+ float: right;
+    border: solid blue 5px;
+    display: inline-block;
+
+
+}
+.n{
+    clear: both;
+    text-align: justify;
+    width: 40%;
+    display: inline-block;
+}
+body
+{
+    background-color:aqua;
+}

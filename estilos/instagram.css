@@ -1,0 +1,51 @@
+#imagen1{
+
+    float: right;
+    border: solid blue 5px;
+    display: inline-block;
+}
+#p1{
+    clear: both;
+    text-align: center;
+    width: 65%;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color: orange;
+}
+h2{
+    text-align: center;
+    clear: both;
+    color: orange;
+    font-family:monospace;
+    font-size: 35px;
+}
+.in{
+    clear: both;
+    text-align: justify-all;
+}
+#c{
+    text-align: center;
+    }
+.n{
+    clear: both;
+    text-align:center;
+    width: 30%;
+    display: inline-block;
+}
+#imagen2{
+ float: right;
+    border: solid orange 5px;
+    display: inline-block;
+    padding: 10px;
+    clear: both;
+
+
+}
+body
+{
+    background-color:cornflowerblue;
+}
